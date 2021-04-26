@@ -104,7 +104,7 @@ rsa==4.6
 s3transfer==0.3.3
 Scrapy==2.3.0
 selenium==3.141.0
-sentry-sdk==0.16.2
+sentry-sdk==0.20.3
 service-identity==18.1.0
 six==1.15.0
 sqlparse==0.3.1
