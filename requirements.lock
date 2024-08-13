@@ -60,7 +60,7 @@ jmespath==0.10.0
 kiwisolver==1.2.0
 kombu==4.6.11
 lxml==4.5.2
-matplotlib==3.3.0
+matplotlib==3.9.2
 mccabe==0.6.1
 numpy==1.19.1
 oauthlib==3.1.0
